@@ -1,14 +1,10 @@
 # Ponzi-Scheme-Script-V2
-A Ponzi Scheme Website script free for you Developed by Flash Media Technology Formally FlashWebTech Inc Contact: (+234) 9022165970 , (+234) 8110446469, (+234) 7033036054 ,email: flashmediatech@gmail.com, Flash Media Technology URL: https://flashmediatech.com
+A Ponzi Scheme Website script free for you Developed by High Breed Technology Limited Formally FlashWebTech Inc Contact: (+234) 9022165970 , (+234) 8110446469, (+234) 7033036054 ,email: support@highbreedtech.com, High Breed Technology URL: https://highbreedtech.com
 
 
 # HERE YOU CAN GET THE PREMIUM LATEST VERSION AS WELL
 Different ROI base on Duration  Choosed, Multi Language support, Chatting and News System Fully Featured.<br/>
-Ponzi v2019.z https://pap.flashwebtech.com
-
-Login Admin Account:
-UserName: Flashwebte
-Password: 12345678
+Ponzi v2019.z Ask  Me On WhatsApp for the demo
 
 --------------------------------------------------
 
@@ -38,7 +34,7 @@ UserName: Flashwebte
 Password: 12345678
 
 --------------------------------------------------
-
+Ponzi v2018.09 https://ponziv9.flashwebtech.com
 Ponzi v2018.09 https://swiftdue.flashwebtech.com
 
 Login Admin Account:
